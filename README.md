@@ -1,17 +1,17 @@
-###RobotCleaner
-This is a test for a recruitment process at Cint using TDD, DDD and MVC with a console application.
+#RobotCleaner
+This is a test for a recruitment process at Cint using TDD, DDD and MVC with a console application. Using MS .Net Framework
 
-#Background
+##Background
 
 When you have a lot of people working in an office it can dirty quite quickly if you're not careful. However, cleaning staff are expensive. To save money on cleaning staff the best solution was deemed to be the creation of an automatic cleaning robot that cleans the office at night.
 
-#Assignment
+##Assignment
 
-Your assignment is to build a prototype of this robot. The assignment is designet to be as simple as possible.
+Your assignment is to build a prototype of this robot. The assignment is designed to be as simple as possible.
 
 The robot will, once given some instructions (shown below as input), run on its own without any human interference. In the morning we can ask the robot to report how many unique places in the office it has cleaned.
 
-#Input and Output Criteria
+##Input and Output Criteria
 
 All input will be given on standard in.
 All output is expected on standard out.
